@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bruno-ariano
-- 👀 I’m interested in genetics
-- 🌱 I’m currently learning how to improve current genetics packages using spark for cloud computing
+- 👀 I’m interested in genetics in data analysis
+- 🌱 I’m currently learning how to improve current genetics softwares using pyspark for cloud computing
 - 💞️ I’m looking to collaborate on any project regarding genetics and machine learning. 
 - 📫 You can reach me through my email
 
