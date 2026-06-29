@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bruno-ariano
 - 👀 I’m interested in genetics and data analysis
-- 🌱 I’m currently working as bioinformatician/data-engineer scaling-up statistical genetics softwares using databases and programming languages such as Spark, Polars as DuckDB
+- 🌱 I’m currently working as bioinformatician/data-engineer scaling-up statistical genetics softwares using databases and programming languages such as Spark, Polars and DuckDB
 - 💞️ I’m also looking to collaborate on any project regarding single cell aging and machine learning. 
 - 📫 You can reach me through my email
